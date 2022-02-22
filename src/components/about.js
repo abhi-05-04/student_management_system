@@ -15,28 +15,27 @@ export default function about() {
                         <div className="col-sm-6 text-left col-sm-pull-6">
                             <div className="clearfix ">
                                 <h3 className="title11">
-                                    How QueueAutomation Works?
+                                    Student Management System
                                 </h3>
                             </div>
                             <ul className="checkmark-list">
                                 <li>
-                                    Students can join the queue using their phones through QR scan.
+                                    Admin has all the access to see all the data and Edit it.
                                 </li>
                                 <li>
-                                    A webpage will be generated highlighting all the required
-                                    parameters(Name, Mobile Number). He/She need fill and submit it.
+                                   To access or manage the data go to navbar's manage ,
+                                   then a dropdown will pop up choose the section you want see or modify. 
+                                </li>
+                              
+                                <li>
+                                    you will see the data of that selected section.
                                 </li>
                                 <li>
-                                    After that he/she will get redirected to new page where they can see their
-                                    queue no. and students waiting ahead of them. Queue Status can be
-                                    tracked on a real-time basis.
+                                    If you want to add the data directly hover on section you want to edit in manage and infront of that you will see add and view buttons click on that.
                                 </li>
-                                <li>
-                                    They will receive a reminder notification once they are next
-                                    in line to be served.{" "}
-                                </li>
-                                <li>Service is delivered safely and comfortably. </li>
+                                <li>You can also directly add the data of any section from the view data page of the same section as at bottom-right their is a add icon which will redirct you to add page of that section. </li>
                             </ul>
+
                         </div>
                     </div>
                 </div>
